@@ -1,0 +1,45 @@
+body{
+    background-color: salmon;
+    margin: 0;
+}
+.App{
+    width: 60%;
+    padding: 10px;
+    border-radius: 17px;
+    background-color: #0a2733;
+    margin: 27px auto;
+    box-shadow: 1px 2px 5px black;
+    color: darkgray
+    ;
+    
+
+}
+input, button{
+    margin: 10px 0;
+}
+.image{
+    width: 27px;
+    display:block;
+    margin:auto
+}
+.delete-icon{
+    
+   color: rgb(245, 238, 238);
+   height: 40px;
+  top: 17px;
+  right: 15px;
+  cursor: pointer;
+  line-height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  width: 40px;
+
+  
+}
+.title{
+    text-align: center;
+    font-style: inherit;
+}
+.list-group{
+    
+}
